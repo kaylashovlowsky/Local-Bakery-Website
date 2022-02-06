@@ -1,19 +1,5 @@
-.navbar {
-  background-color: none;
-}
-
-.index-welcome {
-  margin: 0 auto;
-  text-align: center;
-  padding: 40px 20px;
-  max-width: 80%;
-  height: 100vh;
-}
-
-.mt-si-photo {
-  width: 100%;
-  border: 5px solid white;
-}
+@import "./navbar";
+@import "./hero";
 
 :root {
   --primary-font-family: lato;
@@ -41,4 +27,4 @@ h2 {
   margin: 0 auto;
   max-width: 80%;
   padding: 30px 10px 10px 10px;
-}/*# sourceMappingURL=styles.css.map */
+}
