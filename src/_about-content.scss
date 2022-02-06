@@ -1,0 +1,24 @@
+.about-title {
+  font-family: var(--secondary-font-family);
+  font-size: 60px;
+  padding: 50px 10px 10px 10px;
+  text-align: center;
+}
+
+.local-bakery-front {
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  box-shadow: 12px 10px 2px rgba(0, 0, 0, 0.1);
+}
+
+.index-about-content {
+  text-align: center;
+  font-weight: 300;
+  font-size: 25px;
+  font-family: var(--primary-font-family);
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 10px 10px 10px 10px;
+}

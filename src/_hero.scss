@@ -1,3 +1,10 @@
+h1 {
+  font-family: var(--primary-font-family);
+  font-size: 100px;
+  font-weight: 300;
+  padding: 0px 0px 40px 0px;
+}
+
 .hero-content {
   background-image: url("/images/donut-bakery.jpg");
   background-position: center;
@@ -12,9 +19,4 @@
   font-weight: 600;
   position: relative;
   padding: 40px 0px 0px 30px;
-}
-
-.index-welcome {
-  margin: 0 auto;
-  padding: 0px 0px;
 }

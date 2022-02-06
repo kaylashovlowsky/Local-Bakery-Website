@@ -1,30 +1,8 @@
 @import "./navbar";
 @import "./hero";
+@import "./about-content";
 
 :root {
   --primary-font-family: lato;
   --secondary-font-family: arvo;
-}
-
-h1 {
-  font-family: var(--primary-font-family);
-  font-size: 100px;
-  font-weight: 300;
-  padding: 0px 0px 40px 0px;
-}
-
-h2 {
-  font-family: var(--secondary-font-family);
-  font-size: 60px;
-  padding: 20px 10px;
-}
-
-.index-about-content {
-  text-align: center;
-  font-weight: 300;
-  font-size: 25px;
-  font-family: var(--primary-font-family);
-  margin: 0 auto;
-  max-width: 80%;
-  padding: 30px 10px 10px 10px;
 }
