@@ -47,10 +47,52 @@ h1 {
   font-family: var(--primary-font-family);
   margin: 0 auto;
   max-width: 80%;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 10px 40px 10px;
+}
+
+h4 {
+  font-size: 18px;
+  font-family: var(--primary-font-family);
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footer-content {
+  text-align: center;
+}
+
+.footer-content-icons {
+  font-size: 50px;
+  padding: 30px 0px 0px 0px;
+}
+
+.fab {
+  padding: 0px 30px 0px 0px;
+}
+
+.footer-content-address {
+  padding: 10px 10px;
+}
+
+.brand-contact {
+  padding: 10px 10px 50px 10px;
+}
+
+a:hover {
+  color: purple;
 }
 
 :root {
   --primary-font-family: lato;
   --secondary-font-family: arvo;
+}
+
+hr {
+  border: 1px solid black;
+  opacity: 0.65;
+  width: 90%;
+  margin: 0 auto;
 }/*# sourceMappingURL=styles.css.map */

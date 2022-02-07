@@ -1,0 +1,34 @@
+h4 {
+  font-size: 18px;
+  font-family: var(--primary-font-family);
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footer-content {
+  text-align: center;
+}
+
+.footer-content-icons {
+  font-size: 50px;
+  padding: 30px 0px 0px 0px;
+}
+
+.fab {
+  padding: 0px 30px 0px 0px;
+}
+
+.footer-content-address {
+  padding: 10px 10px;
+}
+
+.brand-contact {
+  padding: 10px 10px 50px 10px;
+}
+
+a:hover {
+  color: purple;
+}

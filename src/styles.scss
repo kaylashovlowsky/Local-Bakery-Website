@@ -1,8 +1,17 @@
 @import "./navbar";
 @import "./hero";
 @import "./about-content";
+@import "./footer";
 
 :root {
   --primary-font-family: lato;
   --secondary-font-family: arvo;
+}
+
+hr {
+  border: 1px solid black;
+
+  opacity: 0.65;
+  width: 90%;
+  margin: 0 auto;
 }
