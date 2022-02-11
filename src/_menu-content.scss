@@ -2,6 +2,16 @@
   display: flex;
 }
 
+.menu-header-title {
+  font-family: var(--primary-font-family);
+  font-size: var(--header-size);
+  text-align: center;
+}
+
+.menu-header-display {
+  margin: 0 auto;
+}
+
 .sample-menu {
   display: flex;
   margin: 0 auto;
