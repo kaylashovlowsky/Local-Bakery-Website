@@ -35,3 +35,23 @@
   border: 1px solid #ebe8f5;
   border-radius: 3px;
 }
+
+.full-menu-display {
+  background: grey;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  color: white;
+  font-family: var(--primary-font-family);
+}
+
+.menu-subheader-title {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 45px;
+}
+
+.menu-list {
+  list-style-type: none;
+}
