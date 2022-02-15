@@ -1,0 +1,17 @@
+.events-header {
+  margin: 0 auto;
+  font-family: var(--primary-font-family);
+  color: white;
+  margin-bottom: 80px;
+  background: orange;
+  padding: 60px 30px;
+  max-width: 100%;
+  height: 100vh;
+}
+
+.events-header-image {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}

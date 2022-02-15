@@ -3,6 +3,7 @@
 @import "./about-content";
 @import "./footer";
 @import "./menu-content";
+@import "./events";
 
 :root {
   --primary-font-family: lato;
@@ -12,7 +13,6 @@
 
 hr {
   border: 1px solid black;
-
   opacity: 0.65;
   width: 90%;
   margin: 0 auto;
